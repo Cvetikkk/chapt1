@@ -1,0 +1,3 @@
+name, age, animal_type,
+Tom, 2, cat
+Garfield ,5, cat, 
