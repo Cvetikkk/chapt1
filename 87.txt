@@ -1,3 +1,0 @@
-name, age, animal_type, new_mane
-Tom, 2, cat, Blanche
-Garfield ,5, cat, Bob
